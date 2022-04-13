@@ -2,6 +2,8 @@
 I'm Florian, but some call me Java (for legacy reasons).
 I come from Germany and am into systems engineering and slowly working my self into backend programming.
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=post-rex&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
 ### Potentially interesting projects:
 (Please take note that sadly not all of my projects have a readme, I appoligize deeply about that)
 
@@ -17,6 +19,9 @@ I come from Germany and am into systems engineering and slowly working my self i
 - [doit](https://github.com/post-rex/doit) A "lightweight" (feature wise) sudo alternative written in rust that fails to hide your password when typing it in.
 
 ### Things I like:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=post-rex)](https://github.com/anuraghazra/github-readme-stats)
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
@@ -32,5 +37,5 @@ I come from Germany and am into systems engineering and slowly working my self i
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   
-  
+
 ###### Take note that some things I know and use are missing from the list
