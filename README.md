@@ -1,6 +1,6 @@
 ## Hi ^^
 I'm Florian, but some call me Java (for legacy reasons).
-I come from Germany and am into systems engineering and slowly working my self into backend programming.
+I come from Germany and am into systems engineering ~~and apparantly and slowly working my self into backend development.~~ and apparantly also programming language development now, thats new.
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=post-rex&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
