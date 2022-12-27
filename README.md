@@ -21,7 +21,7 @@ I come from Germany and am into systems engineering ~~and apparantly and slowly 
 ### Things I like:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=post-rex)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
@@ -34,7 +34,6 @@ I come from Germany and am into systems engineering ~~and apparantly and slowly 
 
 #### Stuff I appreciate:
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   
 
