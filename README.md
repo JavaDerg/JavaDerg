@@ -1,3 +1,4 @@
+
 ## Hi ^^
 I'm Florian, but some call me Java (for legacy reasons).
 I come from Germany and am into systems engineering ~~and apparantly and slowly working my self into backend development.~~ and apparantly also programming language development now, thats new.
@@ -6,6 +7,12 @@ I come from Germany and am into systems engineering ~~and apparantly and slowly 
 
 ### Potentially interesting projects:
 (Please take note that sadly not all of my projects have a readme, I appoligize deeply about that)
+
+#### Current Projects:
+##### WickerBeast Project
+- [Wicker](https://github.com/JavaDerg/wicker): A Wasm based Microkernel I am building with a friend @AwesomeQubic.
+- - [WickerTime](https://github.com/JavaDerg/wickertime): Originally a wasmtime fork, now a mostly diy Wasm compiler/embedded because it turns out wasmtime dropped no_std a while ago.
+
 
 #### Actually finished and usable :)
 - [Mc-Router](https://github.com/JavaDerg/mc-router): A minecraft reverse proxy for hosting multible servers on one port.
