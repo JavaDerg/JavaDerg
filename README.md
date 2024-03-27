@@ -12,6 +12,7 @@ I come from Germany and am into systems engineering ~~and apparantly and slowly 
 ##### WickerBeast Project
 - [Wicker](https://github.com/JavaDerg/wicker): A Wasm based Microkernel I am building with a friend @AwesomeQubic.
 - - [WickerTime](https://github.com/JavaDerg/wickertime): Originally a wasmtime fork, now a mostly diy Wasm compiler/embedded because it turns out wasmtime dropped no_std a while ago.
+- - [Rust](https://github.com/JavaDerg/rust): Amazing, just a fork of rust, sadly was nececary to bring std into kernel space. :>
 
 
 #### Actually finished and usable :)
